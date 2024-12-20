@@ -1,0 +1,1 @@
+# samsung-sm-a217x-fw
